@@ -81,6 +81,8 @@ const StyledGameCard = styled(NavLink)<{$small: boolean, $background: string}>`
   flex-shrink: 0;
   background-size: 100% auto;
   background-position: center;
+
+  box-shadow: 0px 0px 12px rgba(0, 255, 0, 0.3);
   font-weight: bold;
   .play {
     font-size: 14px;
