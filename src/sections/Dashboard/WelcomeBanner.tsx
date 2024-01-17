@@ -69,8 +69,8 @@ export function WelcomeBanner() {
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://v2.gamba.so/', '_blank')}>
-          🚀 Add Liqudity
+        <button onClick={() => window.open('https://birdeye.so/token/DFrJxDoLMYt6bNYeNe8Wrjzj2UPUSLZLEMMYBLuTKcTk?chain=solana', '_blank')}>
+          🚀 BUY $NINJA 
         </button>
         <button onClick={() => window.open('https://twitter.com/NINJA_TSS', '_blank')}>
           👨‍💻 TWITTER
