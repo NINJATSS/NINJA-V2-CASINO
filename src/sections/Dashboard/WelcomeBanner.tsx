@@ -100,9 +100,9 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>Welcome to Gamba v2 👋</h1>
+        <h1>NINJA TURTLES CASINO 🥷🐢 </h1>
         <p>
-          A fair, simple and decentralized casino on Solana.
+          A on-chain, provably -fair casino 🎰 So come play have some fun & if you hold 4+ NINJA NFTs theirs the added bonus of revenue rewards. So don't delay come & play it's the Ninja way 🥷🐢.
         </p>
       </div>
       <Buttons>
