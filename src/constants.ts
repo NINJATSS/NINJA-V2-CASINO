@@ -1,6 +1,5 @@
 import { GambaStandardTokens, TokenMeta } from 'gamba-react-ui-v2'
 import { PublicKey } from '@solana/web3.js'
-
 // Can be configured in .env
 export const RPC_ENDPOINT = import.meta.env.VITE_RPC_ENDPOINT ?? "https://api.mainnet-beta.solana.com"
 
