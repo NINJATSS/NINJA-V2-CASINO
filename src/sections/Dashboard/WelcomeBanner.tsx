@@ -75,7 +75,7 @@ export function WelcomeBanner() {
         <button onClick={() => window.open('https://twitter.com/NINJA_TSS', '_blank')}>
           👨‍💻 TWITTER
         </button>
-        <button onClick={() => window.open('https://discord.gg/HSTtFFwR', '_blank')}>
+        <button onClick={() => window.open('https://discord.com/invite/zWuZA2U4EZ', '_blank')}>
           💬 DISCORD
         </button>
       </Buttons>
