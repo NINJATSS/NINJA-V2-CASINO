@@ -65,7 +65,7 @@ export function WelcomeBanner() {
       <div>
         <h1>NINJA TURTLES CASINO 🥷🐢 </h1>
         <p>
-          An on-chain, provably-fair casino :slot_machine:. So come play, have some fun & if you hold 4+ NINJA NFTs there's the added bonus of revenue rewards. So don't delay, come & play, it's the Ninja way 🥷🐢
+          An on-chain, provably-fair casino 🎰. So come play, have some fun & if you hold 4+ NINJA NFTs there's the added bonus of revenue rewards. So don't delay, come & play, it's the Ninja way 🥷🐢
         </p>
       </div>
       <Buttons>
