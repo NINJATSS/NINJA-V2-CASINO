@@ -21,8 +21,6 @@ export const TOKENS: TokenMeta[] = [
     decimals: 6,
     baseWager: 1 * 1e6,
   }
-]
-
   {
     mint: new PublicKey("DFrJxDoLMYt6bNYeNe8Wrjzj2UPUSLZLEMMYBLuTKcTk"),
     symbol: 'NINJA',
