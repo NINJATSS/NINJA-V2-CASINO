@@ -21,4 +21,4 @@ export const TOKENS: TokenMeta[] = [
     decimals: 6,
     baseWager: 1 * 1e6,
   }
-  ]
+]
