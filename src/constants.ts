@@ -27,6 +27,6 @@ export const TOKENS: TokenMeta[] = [
       name: 'NINJA TURTLES',
       image: "https://cdn.discordapp.com/attachments/1075400421964787763/1205590184696217640/icon-512.png?ex=65d8ec5a&is=65c6775a&hm=4054b8ca5e137dae4694711c0fac8bdd0293dfaef0178b461633e2665c279c04&",
       decimals: 8,
-      baseWager: 1 * 1e8,
+      baseWager: 2605347 * 1e8,
     },
 ]
