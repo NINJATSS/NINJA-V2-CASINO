@@ -39,18 +39,6 @@ export const GAMES: GameBundle[] = [
     app: React.lazy(() => import('./Flip')),
   },
   {
-    id: 'plinko',
-    meta: {
-      background: '#12110f',
-      image: '/games/plinko.png',
-      name: 'Plinko',
-      description: `
-        Plinko
-      `,
-    },
-    app: React.lazy(() => import('./Plinko')),
-  },
-  {
     id: 'hilo',
     meta: {
       name: 'HiLo',
