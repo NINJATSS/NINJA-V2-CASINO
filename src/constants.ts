@@ -45,4 +45,4 @@ export const TOKENS: TokenMeta[] = [
     image: "https://img.fotofolio.xyz/?url=https%3A%2F%2Fwormhole.com%2Ftoken.png&width=200",
     decimals: 6,
     baseWager: 1 * 1e6,
-      },
+   },
