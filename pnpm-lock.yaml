@@ -35,13 +35,13 @@ dependencies:
     specifier: ^6.0.3
     version: 6.0.3
   gamba-core-v2:
-    specifier: ^0.1.7
+    specifier: ^0.3.1
     version: 0.1.7(@coral-xyz/anchor@0.27.0)(@solana/web3.js@1.78.5)
   gamba-react-ui-v2:
-    specifier: ^0.2.0
+    specifier: ^0.4.6
     version: 0.2.0(@coral-xyz/anchor@0.27.0)(@solana/wallet-adapter-react@0.15.35)(@solana/web3.js@1.78.5)(@types/react@18.2.22)(gamba-core@0.5.5)(gamba-react@0.3.7)(react-dom@18.2.0)(react@18.2.0)
   gamba-react-v2:
-    specifier: ^0.2.0
+    specifier: ^1.1.4
     version: 0.2.0(@coral-xyz/anchor@0.27.0)(@solana/wallet-adapter-react@0.15.35)(@solana/web3.js@1.78.5)(@types/react@18.2.22)(gamba-core@0.5.5)(react@18.2.0)
   html2canvas:
     specifier: ^1.4.1
