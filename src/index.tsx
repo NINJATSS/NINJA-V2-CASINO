@@ -3,7 +3,7 @@ import { WalletModalProvider } from '@solana/wallet-adapter-react-ui'
 import '@solana/wallet-adapter-react-ui/styles.css'
 import { PhantomWalletAdapter, SolflareWalletAdapter } from '@solana/wallet-adapter-wallets'
 import { GambaPlatformProvider } from 'gamba-react-ui-v2'
-import { GambaProvider } from 'gamba-react-v2'
+import { GambaProvider, SendTransactionProvider } from 'gamba-react-v2'
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { HashRouter } from 'react-router-dom'
@@ -31,6 +31,7 @@ function Root() {
       >
         <WalletProvider autoConnect wallets={wallets}>
           <WalletModalProvider>
+            <SendTransactionProvider priorityFee={400_201}>
             <GambaProvider>
               <GambaPlatformProvider
                 creator={PLATFORM_CREATOR_ADDRESS}
@@ -42,6 +43,7 @@ function Root() {
                 <App />
               </GambaPlatformProvider>
             </GambaProvider>
+            </SendTransactionProvider>
           </WalletModalProvider>
         </WalletProvider>
       </ConnectionProvider>
