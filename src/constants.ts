@@ -78,7 +78,7 @@ export const TOKEN_METADATA: (Partial<TokenMeta> & { mint: PublicKey })[] = [
     symbol: "NINJA",
     name: "NINJA TURTLES",
     image:
-      "https://cdn.discordapp.com/attachments/1075400421964787763/1205590184696217640/icon-512.png?ex=65d8ec5a&is=65c6775a&hm=4054b8ca5e137dae4694711c0fac8bdd0293dfaef0178b461633e2665c279c04&",
+      "https://media.discordapp.net/attachments/1075400421964787763/1259632551371341834/icon-512.png?ex=668c63bb&is=668b123b&hm=593057fa5735d15e4e6baa33797299ec7b6d4905b7219963c57f43a7a7560ff6&",
     decimals: 8,
     baseWager: 1704421 * 1e8,
   },
